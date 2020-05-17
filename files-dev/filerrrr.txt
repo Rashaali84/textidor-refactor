@@ -1,5 +1,5 @@
 
-
+weqweqweqe
 I am using gulp-karma and facing a simple problem but cannot seems to find what i am doing wrong .
 
 gulp.task('test', function (done) {
